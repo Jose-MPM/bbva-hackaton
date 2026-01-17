@@ -1,0 +1,16 @@
+# Entornos virtuales
+mydjangoenv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Bases de datos
+db.sqlite3
+base_bbva.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
